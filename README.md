@@ -443,9 +443,7 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 
 **@ibrsaiaika** - Full Stack Developer specializing in AI/ML and Cloud Architecture
 
-- Portfolio: [ibrsaiaika.dev](https://ibrsaiaika.dev)
 - GitHub: [@ibrsaiaika](https://github.com/ibrsaiaika)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/ibrsaiaika)
 
 ---
 
@@ -453,8 +451,6 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file f
 
 - OpenAI, Anthropic, Google for AI APIs
 - Next.js and Express.js communities
-- All contributors and supporters
-
 ---
 
 <div align="center">
