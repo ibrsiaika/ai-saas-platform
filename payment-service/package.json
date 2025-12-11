@@ -1,0 +1,29 @@
+{
+  "name": "ai-saas-payment-service",
+  "version": "1.0.0",
+  "description": "Payment and subscription service for AI SaaS platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^14.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^8.0.3",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "jest": "^29.7.0"
+  },
+  "keywords": ["payment", "stripe", "subscription", "saas"],
+  "author": "AI SaaS Platform",
+  "license": "MIT"
+}
